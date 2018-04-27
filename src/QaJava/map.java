@@ -43,7 +43,7 @@ public class map extends compass{
 		}
 		if(a.equals("follow")) {
 			System.out.println("you followed the mysterious lady inside the city");
-			System.out.println("the city looks like i");
+			System.out.println("the city looks like ");
 			System.out.println("she looked at you and said 'come and follow me, i might be able to help you");
 			System.out.println("option: drink, ignore");
 		}

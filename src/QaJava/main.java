@@ -50,7 +50,6 @@ public class main {
 					case "win": plr.win1("5"); break;
 					case "just": plr.lose("5"); break;
 				}
-				
 			} else if (i.equals("south")) {
 				mp.south();
 				plr.lose("1");
